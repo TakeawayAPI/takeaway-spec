@@ -16,7 +16,7 @@ var3 = 6
 var4 = 1
 ```
 
-After composing the data, the values of all `var`s are concatenated. The `md5` hash of this string with the string '4ndro1d' appended is then set as `var0`.
+After composing the data, the values of all `var`s are concatenated. The `md5` hash of this string with the string `4ndro1d` appended is then set as `var0`.
 
 Furthermore, the following values should also be sent. Some methods do not require them though.
 
